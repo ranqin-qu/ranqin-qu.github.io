@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tags on 这里有一只人类！</title>
+    <link>https://ranqin-qu.github.io/tags/</link>
+    <description>Recent content in tags on 这里有一只人类！</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Mar 2025 10:00:00 -0300</lastBuildDate>
+    <atom:link href="https://ranqin-qu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>https://ranqin-qu.github.io/tags/about/</link>
+      <pubDate>Thu, 20 Mar 2025 10:00:00 -0300</pubDate>
+      <guid>https://ranqin-qu.github.io/tags/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>鼠子</title>
+      <link>https://ranqin-qu.github.io/tags/%E9%BC%A0%E5%AD%90/</link>
+      <pubDate>Wed, 29 Jan 2025 21:05:11 -0300</pubDate>
+      <guid>https://ranqin-qu.github.io/tags/%E9%BC%A0%E5%AD%90/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
